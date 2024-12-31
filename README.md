@@ -1,9 +1,18 @@
-Simple WhatsApp 
-This is a simple WhatsApp clone developed with Flutter. The app focuses mainly on the UI design to replicate the core features of the WhatsApp interface, such as messaging, video call, voice call, and a responsive chat screen.
+# Simple WhatsApp UI Clone
 
-Features
-App Bar: Custom app bar with the profile image and options (back button, video call, voice call, and more).
-Chat UI: A clean, simple chat UI with bubble messages for both sent and received messages.
-Message Input: A text input field at the bottom to send messages, with additional icons for emojis and file attachments.
-Background Image: Custom background image that enhances the overall look of the chat.
-Avatar: Profile pictures of the sender and receiver displayed with circular avatars.
+This is a simple **WhatsApp clone** developed using **Flutter**, focusing on creating a clean and responsive **UI design**. The app mimics core WhatsApp features such as chatting, sending messages, and custom UI components for messaging, profile pictures, and interactions.
+
+## Features
+
+- **App Bar**: Custom app bar with profile image, back button, video call, voice call, and more options.
+- **Chat Interface**: A simple chat UI with bubble-style messages for both sent and received messages.
+- **Message Input**: A text input field with options for emojis, attachments, and voice messages.
+- **Background Image**: A background image that enhances the chat interface.
+- **Profile Avatars**: Circular profile images for users on both sides of the conversation.
+
+## Screenshots
+
+Here is a screenshot of the app interface:
+
+![WhatsApp UI](assets/images/screenshot.png)
+
