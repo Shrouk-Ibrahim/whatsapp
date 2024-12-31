@@ -10,9 +10,3 @@ This is a simple **WhatsApp clone** developed using **Flutter**, focusing on cre
 - **Background Image**: A background image that enhances the chat interface.
 - **Profile Avatars**: Circular profile images for users on both sides of the conversation.
 
-## Screenshots
-
-Here is a screenshot of the app interface:
-
-![WhatsApp UI](assets/images/screenshot.png)
-
